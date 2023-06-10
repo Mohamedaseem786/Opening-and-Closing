@@ -72,7 +72,7 @@ close_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
 
 ### Display the input Image
 
-![](input_image.png)
+![](ex 11 a.jpg)
 
 ### Display the result of Opening
 
