@@ -72,15 +72,18 @@ close_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
 
 ### Display the input Image
 
-![](ex 11 a.jpg)
+![ex 11 a](https://github.com/Mohamedaseem786/Opening-and-Closing/assets/94883005/b98bcdc0-7344-465b-80b1-72376e3c6af3)
+
 
 ### Display the result of Opening
 
-![](Openimage.png)
+![ex 11 b](https://github.com/Mohamedaseem786/Opening-and-Closing/assets/94883005/c313eabd-a1b2-44bb-8afd-97903ac2d767)
+nimage.png)
 
 ### Display the result of Closing
 
-![](Closeimage.png)
+
+![ex 11 c](https://github.com/Mohamedaseem786/Opening-and-Closing/assets/94883005/dd4be921-4c9c-422f-895f-e56a48ee5d4c)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
